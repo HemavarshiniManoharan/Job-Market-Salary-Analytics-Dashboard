@@ -98,7 +98,7 @@ The dashboard helps users:
 
 ### Job Market & Salary Analytics Dashboard
 
-![Job Market and Salary Analysis](Job%20Market%20and%20Salary%20Analysis.png)
+![Job Market and Salary Analysis](Job%20market%20and%20Salary%20Analysis.png)
 
 ---
 
